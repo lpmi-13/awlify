@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 # Awlify
 
-TODO: Write a gem description
-
+this takes a string, searching for any words that have AWL synonyms, then randomly substitutes
+one for the word in question. In future versions will prompts users to select from possible variants
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -29,3 +30,6 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+# awlify
+>>>>>>> b3808c5de2a7528c30e0c3d6324cff927cae008a
