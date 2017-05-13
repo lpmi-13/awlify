@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Awlify
 
 this takes a string, searching for any words that have AWL synonyms, then randomly substitutes
@@ -30,6 +29,3 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
-=======
-# awlify
->>>>>>> b3808c5de2a7528c30e0c3d6324cff927cae008a
